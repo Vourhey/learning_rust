@@ -1,0 +1,7 @@
+[package]
+name = "counting_the_number_of_characters"
+version = "0.1.0"
+authors = ["Vadim Manaenko <vadim.razorq@gmail.com>"]
+edition = "2018"
+
+[dependencies]
